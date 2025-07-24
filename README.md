@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @TheGrumpyTechnician
-- 👀 I’m interested in Systems Administration with a focus on Microsoft Azure and 365 infrastructure
-- 🌱 I’m currently learning Powershell scripting and automation, Terraform IaC w/ Azure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TheGrumpyTechnician/TheGrumpyTechnician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I am a Systems Engineer specializing in Endpoint Management across Windows and MacOS, 365 adminstration and automation. I have a passion to automate and save time/resources when possible. 
+- 🌱 I’m currently advancing my Powershell scripting and automation, including Terraform IaC w/ Azure while practicing my GIT CI/CD Source control. 
